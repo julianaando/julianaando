@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Student Full Stack Web Development | Trybe <br>⚡ HTML | CSS | JavaScript | React | SQL <br>💬 Skilled in working collaboratively and comfortable with agile development methodologies <br>🔭 Actively seeking my first opportunity as a professional web <br>developer<br>📧 juandocezare@gmail.com<br>
+🌱 Student Full Stack Web Development | Trybe <br>⚡ HTML | CSS | JavaScript | React | SQL <br>💬 Skilled in working collaboratively and comfortable with agile development methodologies <br>🔭 Actively seeking my first opportunity as a professional web developer<br>📧 juandocezare@gmail.com<br>
 
 
 ## 🌐 Socials:
