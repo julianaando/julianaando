@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Full Stack Web Developer | Trybe <br>⚡ TypeScript | React | SQL | Node.js | Java <br>💬 Skilled in working collaboratively and comfortable with agile development methodologies <br>🔭 Actively seeking my first opportunity as a professional web developer<br>📧 juandocezare@gmail.com<br>
+🌱 Full Stack Web Developer | Trybe | AdaTech <br>⚡ TypeScript | React | SQL | Node.js | Java <br>💬 Skilled in working collaboratively and comfortable with agile development methodologies <br>🔭 Actively seeking my first opportunity as a professional web developer<br>📧 juandocezare@gmail.com<br>
 
 
 ## 🌐 Socials:
